@@ -1,0 +1,2 @@
+# Two-Simple-Codes-Solving-MNIST
+These are two simple codes solving the classical MNIST problem for machine learning. Most of the codes on Github is too complicated and not suitable for beginners. These codes are simple and directly show the core of the neural network. One of them only uses fully-connected layers, the other uses a CNN. The way they get the training data is by using the code provided by tensorflow's guide. 
